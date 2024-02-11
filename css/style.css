@@ -76,6 +76,7 @@ ul.nav.navbar-nav.navbar-right  .portal {
     color: #f1c40f;
     --animate-duration: 800ms;
     --animate-delay: 0.9s;
+    margin-bottom: 30px;
 }
 
 #The_Content p {
@@ -115,6 +116,7 @@ ul.nav.navbar-nav.navbar-right  .portal {
 
 #The_Content #Team {
     background-color: #bfbbb8;
+    padding-top: 20px;
 }
 
 #The_Content #Team div>img {
@@ -189,6 +191,11 @@ ul.nav.navbar-nav.navbar-right  .portal {
     display: inline;
     list-style-type: none;
     margin-right: 3px;
+}
+#Main_Footer ul.Team {
+    list-style-type: none;
+    line-height: 1.8em;
+    font-weight: 500;
 }
 
 #Main_Footer hr {
@@ -296,6 +303,9 @@ ul.nav.navbar-nav.navbar-right  .portal {
     color: #f1c40f;
     border-color: #333;
 }
+#Main_Events h1{
+    color:#f4f4f4;
+}
 
 /*End Events*/
 /*Main Contact*/
@@ -362,6 +372,7 @@ ul.nav.navbar-nav.navbar-right  .portal {
     background-color: #f1c40f;
     color: #333;
     border-color: #f1c40f;
+    margin-bottom: 15px;
 }
 
 #Main-content .content_2 .btn-danger:hover {
